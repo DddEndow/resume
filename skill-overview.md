@@ -61,7 +61,11 @@
 
 # 資格
 * 基本情報技術者（2021年3月）
+* 応用情報技術者（2021年7月）
 * AWS Solution Architect Associate（2020年2月）
 * AWS Developer Associate（2020年8月）
 * AWS SysOps Administrator Associate（2020年10月）
+* AWS Solutions Architect Professional（2021年6月）
+* AWS DevOps Engineer Professional（2021年7月）
 * 認定スクラムマスター（LSM）（2020年11月）
+* 日商簿記3級（2021年7月）
